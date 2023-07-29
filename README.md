@@ -1,9 +1,9 @@
 pbwww
 =====
-The web form for https://ptpb.pw/.
+The web form for https://pb.najjarza.de/.
 
-~~The live version is at https://ptpb.pw/~index.html.~~  
-The live version is now at [https://ptpb.pw/f](https://ptpb.pw/f)!
+~~The live version is at https://pb.najjarza.de/~index.html.~~  
+The live version is now at [https://pb.najjarza.de/f](https://pb.najjarza.de/f)!
 
 Yes, the paste form for the paste site is [still] a paste on the paste site. :)
 
